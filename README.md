@@ -7,7 +7,7 @@ Hi there! I'm an **analytical and versatile developer** with a knack for solving
 ## 🚀 Skills  
 
 - **Programming Languages:** Python, SQL, JavaScript  
-- **Web Development:** Backend (Django), frontend development, and responsive UI design  
+- **Web Development:** MERN stack, Backend (Django, FastAPI), frontend development, and responsive UI design  
 - **Data Science:** Exploratory data analysis, data visualization, and actionable insights  
 - **Hackathons:** Ideation, collaboration, and delivering under tight deadlines  
 
@@ -15,7 +15,7 @@ Hi there! I'm an **analytical and versatile developer** with a knack for solving
 
 ## 🌟 What Drives Me  
 
-I’m passionate about leveraging technology to create solutions that **empower people** and **make a difference**. From streamlining processes to promoting sustainability, my work is driven by the belief that technology can solve the biggest challenges of our time. I also enjoy continuous learning and exploring cutting-edge technologies.  
+I’m passionate about leveraging technology and AI to create solutions that **empower people** and **make a difference**. From streamlining processes to promoting sustainability, my work is driven by the belief that technology can solve the biggest challenges of our time. I also enjoy continuous learning and exploring cutting-edge technologies.  
 
 ---
 
